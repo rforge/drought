@@ -1,0 +1,11 @@
+Package: UMDI
+Type: Package
+Title: Compute the Univariate and multivariate drought indices  
+Version: 1.0
+Date: 2014-10-08
+Authors@R: "Z. Hao <z.hao4univ@gmail.com> [aut, cre]"
+Description: It computes univariate (e.g., Standardized Precipitation Index (SPI)) and multivariate drought indices based on the monthly hydro-climatric variables.
+Depends: R (>= 3.1.0)
+License: GPL-2
+ 
+ 
