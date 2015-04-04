@@ -1,0 +1,13 @@
+Package: drought
+Type: Package
+Title: Drought modeling and assessment
+Version: 1.0
+Date: 2015-03-15
+Author: Z. Hao
+Maintainer: Z.hao <z.hao4univ@gmail.com>
+Description: drought monitoring, prediction and analysis
+Depends:
+    R (>= 3.1.0)
+Suggests:
+    MASS
+License: GPL-3
