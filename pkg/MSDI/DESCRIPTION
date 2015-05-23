@@ -1,0 +1,9 @@
+Package: MSDI
+Type: Package
+Title: Multivariate Standardized Drought Index (MSDI)
+Version: 1.0
+Date: 2015-05-23
+Author: Zengchao Hao
+Maintainer: Zengchao Hao <z.hao4univ@gmail.com>
+Description: Compute multivariate standardized drought index (MSDI)
+License: License GPL-3
